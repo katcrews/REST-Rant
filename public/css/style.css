@@ -1,41 +1,40 @@
 body {
-    background-color: lightblue;
+    background-color: #4A8AB5;
     text-align: center;
-  }
-  
-  main {
+}
+
+main {
     margin-right: 20px;
     margin-left: 20px;
-    background-color: white;
-  }
-  
-  
-  h1 {
-      text-align: center;
-      color: cornflowerblue;
-    }
-    
-  nav {
-      background-color: cornflowerblue;
-      padding: 10px;
-  }
-  
-  nav ul {
-      list-style-type: none;
-      margin: 0;
-  }
-  
-  nav li {
-      display: inline;
-      margin-right: 25px;
-  }
-  
-  nav a {
-      color: white;
-      font-size: 1.5em;
-  }
-  
-  nav a:hover {
-      color: pink;
-      text-decoration: none;
-  }
+    background-color: beige;
+}
+
+h1 {
+    text-align: center;
+    color: #4A8AB5;
+}
+
+nav {
+    background-color: #6EA2C4;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 25px;
+}
+
+nav a {
+    color: floralwhite;
+    font-size: 1.5em;
+}
+
+nav a:hover {
+    color: #B5754A;
+    text-decoration: none;
+}
