@@ -9,6 +9,10 @@ main {
     background-color: beige;
 }
 
+form {
+    display: inline;
+}
+
 h1 {
     text-align: center;
     color: #4A8AB5;
